@@ -12,7 +12,7 @@ image:
 
 live: https://sd9sr8.csb.app/
 demo:
-documentation: https://github.com/Kushagra1001/Kushagra1001
+documentation:
 
 ## Discover
 
